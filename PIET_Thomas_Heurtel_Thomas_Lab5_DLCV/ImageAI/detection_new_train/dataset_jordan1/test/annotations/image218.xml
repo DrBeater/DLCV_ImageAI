@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image218.jpeg</filename>
+	<path>/home/thomas/DLCV/ImageAI/detection_new_train/dataset/images/image218.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jordan 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>597</ymin>
+			<xmax>749</xmax>
+			<ymax>1397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Jordan 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>158</ymin>
+			<xmax>998</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>
